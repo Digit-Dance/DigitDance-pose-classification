@@ -1,1 +1,1 @@
-# DigitDance-pose-classification
+# DigitDance/pose-classification
